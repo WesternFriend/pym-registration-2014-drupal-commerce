@@ -69,3 +69,11 @@ Payment
 The following payment options will be available, or are under consideration:
 * Pay later - by check, cash, etc.
 * Dwolla - like check/cash but over web
+
+Back office
+===========
+Back office consists of support staff for the registration process and website.
+
+Roles for the back office include:
+* Registraits
+* Administrators

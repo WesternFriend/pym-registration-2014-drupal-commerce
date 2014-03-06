@@ -19,6 +19,8 @@ Daily Registrations will be calculated based on the age group, specified accommo
 
 Commuter Registrations will be calculated based on age group and specified days.
 
+Linens will be optional for overnight registrants.
+
 Product Fields
 ==============
 Weekly Registrations have the following fields/widgets:

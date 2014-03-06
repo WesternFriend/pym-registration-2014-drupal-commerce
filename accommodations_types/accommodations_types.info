@@ -1,0 +1,10 @@
+name = Accommodations Types
+description = Taxonomy vocabulary containing accommodations.
+core = 7.x
+package = PYM Registration
+version = 7.x-0.1
+project = accommodations_types
+features[features_api][] = api:2
+features[taxonomy][] = accommodations
+features_exclude[dependencies][features] = features
+features_exclude[dependencies][taxonomy] = taxonomy

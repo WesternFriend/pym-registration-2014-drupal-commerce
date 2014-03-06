@@ -47,3 +47,4 @@ The following fields will collect registrant information:
 * City
 * State
 * Postal code
+* E-mail

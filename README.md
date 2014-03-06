@@ -63,3 +63,9 @@ The following fields will collect registrant information:
 * State
 * Postal code
 * E-mail
+
+Payment
+=======
+The following payment options will be available, or are under consideration:
+* Pay later - by check, cash, etc.
+* Dwolla - like check/cash but over web

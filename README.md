@@ -21,6 +21,8 @@ Commuter Registrations will be calculated based on age group and specified days.
 
 Linens will be optional for overnight registrants.
 
+Early registrants will get a percentage based discount, while late registrants will be charged an additional percentage.
+
 Product Fields
 ==============
 Weekly Registrations have the following fields/widgets:

@@ -13,13 +13,28 @@ The following products will need to be defined to collect information relevant t
 
 Fee Structure
 =============
-Weekly Registration fees will be calculated based on the age group and specified accommodations.
+Weekly Registration
+-------------------
+Fees will be calculated based on the 
+* age group and 
+* specified accommodations.
 
-Daily Registrations will be calculated based on the age group, specified accommodations, and specified days.
+Daily Registration
+------------------
+Fees will be calculated based on the 
+* age group, 
+* specified accommodations, and 
+* specified days.
 
-Commuter Registrations will be calculated based on age group and specified days.
+Commuter Registration 
+---------------------
+Fees will be calculated based on 
+* age group and 
+* specified days.
 
-Linens will be optional for overnight registrants.
+Linens
+------
+There will be an optional charge for linens.
 
 Early registrants will get a percentage based discount, while late registrants will be charged an additional percentage.
 

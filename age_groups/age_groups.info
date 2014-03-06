@@ -1,0 +1,10 @@
+name = Age groups
+description = Taxonomy vocabulary containing age groups.
+core = 7.x
+package = PYM Registration
+version = 7.x-0.1
+project = age_groups
+features[features_api][] = api:2
+features[taxonomy][] = age_groups
+features_exclude[dependencies][features] = features
+features_exclude[dependencies][taxonomy] = taxonomy
